@@ -6,7 +6,7 @@ module.exports = {
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
-    "status": "",
+    "status": "dnd",
 
     "game": {
         "applicationID": "1458465840935735390",
@@ -56,4 +56,5 @@ module.exports = {
         "endTimestamp": "",
     }
 }
+
 
