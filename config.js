@@ -2,14 +2,14 @@
 
 module.exports = {
     // discord bot token
-    "token": "",
+    "token": "MTQ1ODQ2NTg0MDkzNTczNTM5MA.Gix2VA.sjWT2mEvZMvUvWTh2gTkDoBMHeYSuI5O17PD98",
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1458465840935735390",
 
         "name": "", // title
         "details": "", // first row below title
@@ -56,3 +56,4 @@ module.exports = {
         "endTimestamp": "",
     }
 }
+
