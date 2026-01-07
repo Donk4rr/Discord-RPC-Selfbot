@@ -2,7 +2,7 @@
 
 module.exports = {
     // discord bot token
-    "token": "MTQ1ODQ2NTg0MDkzNTczNTM5MA.Gix2VA.sjWT2mEvZMvUvWTh2gTkDoBMHeYSuI5O17PD98",
+    "token": "MTQ1ODQ2NTg0MDkzNTczNTM5MA.GsPOE1.rT7lQ_0Le5SJTJ89YLm_FNCcqaCAKXcqyee1dw",
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
@@ -56,5 +56,6 @@ module.exports = {
         "endTimestamp": "",
     }
 }
+
 
 
